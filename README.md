@@ -31,11 +31,11 @@ __Notice__: These works are just for __reference and learning__. __No Copycat, N
 
 ### Compiler Principles
 > IS203 - 编译原理
-* [2017-Lexers]()
+* [2017-Lexers](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS203)
 
 ### Digital System Design
 > IS208 - 数字系统设计
-* [Final Programming Problems]()
+* [Final Programming Problems](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS208)
 * [Review Summary](https://github.com/wangjksjtu/verilog)
 
 ### Computer Communication and Network
