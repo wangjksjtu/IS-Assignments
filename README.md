@@ -7,8 +7,11 @@ The assignments of academic courses (IS in SJTU).
 * [Software Engineering](#software-engineering)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Compiler Principles](#compiler-principles)
-<!--
+* [Digital System Design](#digital-system-design)
 * [Computer Communication and Network](#computer-communication-and-network)
+* [Data Mining](#data-mining)
+
+<!--
 * [Principles of Computer Virus](#principles-of-computer-virus)
 -->
 ## Introduction
@@ -42,10 +45,13 @@ __Notice__: These works are just for __reference and learning__. __No Copycat, N
 > IS301 计算机通信网络
 * [2017-JKSniffer](https://github.com/wangjksjtu/JKSniffer)
 
-<!--
 ### Operating System
 > IS206 - 操作系统 
--->
+* [2018-OSLab](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS206)
+
+### Data Mining
+> IS303 - 数据挖掘 
+* [2018-Data-Mining-51Job](https://github.com/wangjksjtu/Data-Mining-51Job)
 
 <!--
 ### Principles of Computer Virus
