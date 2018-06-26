@@ -9,6 +9,7 @@ The assignments of academic courses (IS in SJTU).
 * [Compiler Principles](#compiler-principles)
 * [Digital System Design](#digital-system-design)
 * [Computer Communication and Network](#computer-communication-and-network)
+* [Operating System](#operating-system)
 * [Data Mining](#data-mining)
 
 <!--
